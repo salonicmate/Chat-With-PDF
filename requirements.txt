@@ -1,0 +1,15 @@
+unstructured
+tiktoken
+pinecone-client
+pypdf
+openai
+langchain
+pandas 
+numpy
+python-dotenv
+langchain-google-genai
+langchain-community
+pinecone
+pinecone-plugin-assistant
+langchain-pinecone
+streamlit
